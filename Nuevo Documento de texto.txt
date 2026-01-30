@@ -1,0 +1,28 @@
+Diapositiva 1: Exterior
+
+
+Diapositiva 2: Hay sonido de fondo
+Opción 1: ir mas hacia dentro
+Opción 2: Salir (puerta bloqueada)
+
+
+Diapositiva 3 (Salir puerta bloqueada):
+Se escuchan pasos de lo que parece una persona:
+Opción 1: Esconderse en armario
+Opción 2: Pedirle ayuda para salir (DEAD END)
+
+Diapositiva 3.1(Mas hacia dentro):
+Habitación muy sospechosa, investigar cosas raras (rastro de sangre que conduce
+a una puerta)
+Opción 1: Abres la puerta?
+Opción 2: Decides ignorar la puerta y avanzar (DEAD END)
+
+
+Diapositiva 4 (Esconderse armario)
+Ves pasar a un tio calvo (el malo) entre las rejillas del armario, lleno de 
+sangre y un cuchillo en la mano
+Opción 1: Mantienes respiración (Sales del armario y vas a diapositiva 3.1)
+Opción 2: No mantienes respiracion (DEAD END)
+
+Diapositiva 4.1 (Abrir la puerta)
+
